@@ -1,0 +1,15 @@
+{
+  "name": "simon/flow_fw",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "teabookcodes",
+      "email": "simon.kana@seznam.cz"
+    }
+  ],
+  "require": {}
+}
